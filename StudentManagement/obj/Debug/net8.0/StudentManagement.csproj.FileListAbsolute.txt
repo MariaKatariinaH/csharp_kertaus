@@ -336,3 +336,4 @@ C:\Ohjelmistojen julkaisu ja ylläpito\CSharpKertaus\StudentManagement\obj\Debug
 C:\Ohjelmistojen julkaisu ja ylläpito\CSharpKertaus\StudentManagement\obj\Debug\net8.0\StudentManagement.pdb
 C:\Ohjelmistojen julkaisu ja ylläpito\CSharpKertaus\StudentManagement\obj\Debug\net8.0\StudentManagement.genruntimeconfig.cache
 C:\Ohjelmistojen julkaisu ja ylläpito\CSharpKertaus\StudentManagement\obj\Debug\net8.0\ref\StudentManagement.dll
+C:\Ohjelmistojen julkaisu ja ylläpito\CSharpKertaus\StudentManagement\obj\Debug\net8.0\StudentManagement.sourcelink.json

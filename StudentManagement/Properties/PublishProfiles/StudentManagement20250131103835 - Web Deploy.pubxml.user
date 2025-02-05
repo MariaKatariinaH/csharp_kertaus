@@ -7,7 +7,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAhPi1gvCtXUWWO9lAXrz1NQAAAAACAAAAAAAQZgAAAAEAACAAAAB5toH1oq7tCqtqVX+CxcfIWCuVR0dUOQxQWoCvA507PwAAAAAOgAAAAAIAACAAAAC9RHBIGVUEINa1aDbQ1V367es5TbfSlykEn2jEVNKM7YAAAADVyN1ml9V+q0jPUCGZnmzUFZGfwckYnyUk/rmMNSjr4PIKcgpdBM14gLYMObGd7qInZ+yYaLunLfeZtOJplVxpyJyUyRvHxDH0WOvSrC3ekLFhaG5gTTEZwAuo59fHO40bzd17Izo9f4Yzfvu9VIXGfUPCSpGT/GXgIerFc4T6XkAAAAARr1vi/yergPrnnA34lyPgWI3UtBv0/jaoPReDR6VD5K2RdiJjDEdZ8FDqoD9TA44uAaVUbLQt6QaGhmfwnHgP</EncryptedPassword>
-    <History>True|2025-01-31T08:40:52.0296152Z;True|2025-01-31T10:40:03.6496299+02:00;</History>
+    <History>True|2025-02-05T16:31:55.0431169Z;True|2025-01-31T10:40:52.0296152+02:00;True|2025-01-31T10:40:03.6496299+02:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
